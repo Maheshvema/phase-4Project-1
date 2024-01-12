@@ -1,0 +1,6 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-1\SchoolOopData\SchoolOopData\bin\Debug\SchoolOopData.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-1\SchoolOopData\SchoolOopData\bin\Debug\SchoolOopData.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-1\SchoolOopData\SchoolOopData\obj\Debug\SchoolOopData.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-1\SchoolOopData\SchoolOopData\obj\Debug\SchoolOopData.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-1\SchoolOopData\SchoolOopData\obj\Debug\SchoolOopData.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4 Project-1\SchoolOopData\SchoolOopData\obj\Debug\SchoolOopData.pdb
